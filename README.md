@@ -5,6 +5,21 @@ An end-to-end Machine Learning system designed to identify fraudulent credit car
 The project focuses on preventing data leakage, handling severe class imbalance, comparing multiple machine learning models, and optimizing fraud detection performance using precision-recall analysis.
 
 ---
+## 📱 Application Interface
+
+| 1. Main Dashboard | 2. PCA Feature Controls |
+| :---: | :---: |
+| ![Dashboard](assets/app_interface.png) | ![PCA Controls](assets/pca_features.png) 
+|
+
+---
+
+### 🚨 Real-Time Fraud Detection Output
+
+![Prediction Result](assets/prediction_result.png)
+*Real-time fraud prediction displaying transaction probability powered by the tuned XGBoost classifier.*
+
+---
 
 ## 🚀 Key Features
 
