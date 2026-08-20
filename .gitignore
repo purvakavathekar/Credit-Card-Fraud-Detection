@@ -1,0 +1,14 @@
+# Ignore raw data files
+*.csv
+data/
+notebooks/data/
+
+# Ignore Python virtual environment
+fraud_env/
+.venv/
+env/
+__pycache__/
+
+# Ignore OS junk files
+.DS_Store
+Thumbs.db
